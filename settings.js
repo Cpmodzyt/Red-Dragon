@@ -11,12 +11,40 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `Hҽყ Tԋҽɾҽ I'ɱ Cρ ||° 🖤 🪄
+
+🎗️ Hey Friends , 
+Welcome to Itz Cp's bot 🪼
+So , I think this bots are useful 
+to you . 😊
+Nice to meet you 🤝
+Thankyou ♥️ 🪄 
+
+🎀 Owner - 𝙸𝚝𝚣_𝙲𝚙 |° ©
+
+📒 𝙳𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚐𝚎𝚝 𝚊𝚕𝚕 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 ?
+𝚃𝚢𝚙𝚎 & 𝚂𝚎𝚗𝚍 - .menu or .list
+
+GroupLink ❄️
+https://chat.whatsapp.com/HPl9gi585raKVZjzEmcvDH
+
+FollowUs 🌸
+
+[🌟] 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 - Itz Cp
+
+[⭕] 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 - Cpmodzyt
+
+[🎮] 𝙳𝚒𝚜𝚌𝚘𝚛𝚍 - Itz_Cpmodz
+
+[❄] 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖𝚎 - Itz_mecp
+
+#𝙸𝚝𝚣_𝙲𝚙 |° ©
+#𝚂𝚕𝙻𝚎𝚐𝚎𝚗𝚍𝚣𝙵𝚊𝚖𝚒𝚕𝚢
+#𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -29,29 +57,29 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.vcardowner = ['+94765665354'] // owner number
+global.ownername = "I ƚ ȥ  C ρ |° 🖤 🪄" // owner name
+global.ytname = "Itz Cp" // yt chanel name
+global.socialm = "GitHub: Cpmodzyt" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://telegra.ph/file/31192a37097313ce02258.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
+global.antilink = "true" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94765665354']
+global.ownertag = '+94765665354' //your tag number
+global.botname = 'ITZ CP'S BOT' //ur bot name
+global.packname = "Cp's Bot" // sticker packname
+global.author = "I ƚ ȥ  C ρ |° 🖤 🪄" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
