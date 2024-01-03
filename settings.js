@@ -77,7 +77,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94765665354']
 global.ownertag = '+94765665354' //your tag number
-global.botname = 'ITZ CP'S BOT' //ur bot name
+global.botname = 'Itz Cp`s Bot' //ur bot name
 global.packname = "Cp's Bot" // sticker packname
 global.author = "I ƚ ȥ  C ρ |° 🖤 🪄" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
